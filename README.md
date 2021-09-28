@@ -1,3 +1,3 @@
-# New Title done locally - gitReviewWeek4 repo
+# Week4 Exercise: on a new local branch adding index
 
-MAde changes on repo.
+About the team - keeping this
